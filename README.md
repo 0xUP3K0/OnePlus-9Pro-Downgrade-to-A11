@@ -1,5 +1,5 @@
 # OnePlus 9Pro Downgrade to Android 11 
-Because OnePlus decided to take down the package links of Android 11, I decided to host them here. <br>
+Because OnePlus decided to [take down the package links of Android 11](https://community.oneplus.com/thread/1502946), I decided to host them here. <br>
 Currently Europe version only, upon request the others too.
 <br/><br/>
 ## TUTORIAL
